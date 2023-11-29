@@ -37,7 +37,7 @@ function doSum(x,y,z){
 }
 doSum(10,20,30)
 
-//
+//function 6
 var car = 'toyota camry';
 function myFunction(){
     var car = 'Bugati';
@@ -46,7 +46,7 @@ function myFunction(){
 myFunction();
 console.log(car);
 
-//
+//function 7
 function multiply(num1,num2){
     return num1 * num2;
 }
